@@ -20618,4 +20618,19 @@
       port="8080"
       type="default"
   />
+  
+    <apn carrier="agms"
+      mcc="310"
+      mnc="280"
+      apn="agms"
+      type="default,supl"
+  />
+
+    <apn carrier="agms"
+      mcc="204"
+      mnc="65"
+      apn="agms"
+      type="default,supl"
+  />
+  
 </apns>
